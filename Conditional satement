@@ -1,0 +1,9 @@
+temperature = 30
+if temperature > 30:
+   print("Its too hot")
+   print("Drink Water")
+elif temperature < 30:
+   print("Its not hot")
+else:
+   print("Set the location in your area")
+print("Its done")
